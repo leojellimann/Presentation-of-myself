@@ -2,7 +2,7 @@
 You can find in this repository a presentation of my skills
 
 # 💫 About Me:
-I'm a French 26yo Computer Science Engineer. <br>I built a mobile social network in React Native for my friends, to share our favorite music together
+I'm a French 26yo Computer Science Engineer <br>I built a mobile social network in React Native for my friends, to share our favorite music together
 
 
 ## 🌐 Socials:
